@@ -108,3 +108,9 @@ It's simple enough to understand but powerful enough to extend, making it perfec
 Imagine this weather app growing into a platform. It could include social features, like sharing weather updates with friends. It might offer widgets for websites or even a browser extension that keeps users informed every time they open a new tab.
 
 By starting with something as simple as `index.html`, this small project could evolve into a full-fledged weather monitoring tool used by thousands.
+
+
+
+
+<img width="1911" height="924" alt="Image" src="https://github.com/user-attachments/assets/67e553ce-9e9c-40ab-aef5-37889fec71e4" />
+<img width="1916" height="929" alt="Image" src="https://github.com/user-attachments/assets/1f235093-f1e3-4e75-8196-c2d67b96e5a1" />
